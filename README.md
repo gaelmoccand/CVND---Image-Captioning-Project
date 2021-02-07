@@ -10,3 +10,15 @@ After using the Microsoft Common Objects in COntext (MS COCO) dataset to train t
 2. ![train](Image-Captioning/2_Training.ipynb): data pre-processing and training pipeline .
 3. ![infer](Image-Captioning/3_Inference.ipynb): generate captions on test dataset using the trained model.
 
+
+##  LSTMs
+
+A very good summary on how LSTMs work can be found here ![lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+
+
+
+### References 
+
+Show and Tell: A Neural Image Caption Generator [google](https://arxiv.org/pdf/1411.4555.pdf)
+How to LSTM ![lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
