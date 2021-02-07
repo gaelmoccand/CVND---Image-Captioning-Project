@@ -18,6 +18,14 @@ After using the Microsoft Common Objects in COntext (MS COCO) dataset to train t
 
 A very good summary on how LSTMs work can be found here ![lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+
+## Model Architecure
+
+#Encoder using Resnet
+
+A Convolutional Neural Network (CNN) is used for the encoder part. CNN have been widely used and studied for image tasks, and are currently state-of-the art for object recognition and detection. In this case Resnet architecture was chosen. Benchamrsk fo rdiffreent CNN architectures can be found ![here](https://github.com/jcjohnson/cnn-benchmarks)
+
+
 ## Get Data
 
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
