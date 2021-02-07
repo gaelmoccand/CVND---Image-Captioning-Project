@@ -1,6 +1,8 @@
 # Image-Captioning-Project
 
-In this project, a neural network architecture to automatically generate captions from images.
+In this project, a neural network architecture is used to automatically generate captions from images.
+
+
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train the network, new captions will be generated based on new images.
 
