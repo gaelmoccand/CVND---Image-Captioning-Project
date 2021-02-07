@@ -23,5 +23,5 @@ A very good summary on how LSTMs work can be found here ![lstm](http://colah.git
 
 ### References 
 
-Show and Tell: A Neural Image Caption Generator [google](https://arxiv.org/pdf/1411.4555.pdf)
-How to LSTM ![lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. Show and Tell: A Neural Image Caption Generator [google](https://arxiv.org/pdf/1411.4555.pdf)
+2. How to LSTM ![lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
