@@ -2,7 +2,7 @@
 
 In this project, a neural network architecture is used to automatically generate captions from images.
 
-![image](https://github.com/gaelmoccand/Image-Captioning/iamge_captioning.png)
+![image](https://github.com/gaelmoccand/Image-Captioning/image_captioning.png)
 
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train the network, new captions will be generated based on new images.
