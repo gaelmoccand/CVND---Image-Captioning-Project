@@ -9,9 +9,9 @@ After using the Microsoft Common Objects in COntext (MS COCO) dataset to train t
 
 ## The project Structure
 
-1. ![model](Image-Captioning/model.py): containing the model architecture.
-2. ![train](Image-Captioning/2_Training.ipynb): data pre-processing and training pipeline .
-3. ![infer](Image-Captioning/3_Inference.ipynb): generate captions on test dataset using the trained model.
+1. ![model](https://github.com/gaelmoccand/Image-Captioning/blob/master/model.py): containing the model architecture.
+2. ![train](https://github.com/gaelmoccand/Image-Captioning/blob/master/2_Training.ipynb): data pre-processing and training pipeline .
+3. ![infer](https://github.com/gaelmoccand/Image-Captioning/blob/master/3_Inference.ipynb): generate captions on test dataset using the trained model.
 
 
 ##  LSTMs
