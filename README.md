@@ -21,7 +21,7 @@ A very good summary on how LSTMs work can be found here ![lstm](http://colah.git
 
 ## Model Architecure
 
-#Encoder using Resnet
+# CNN Encoder using Resnet
 
 A Convolutional Neural Network (CNN) is used for the encoder part. CNN have been widely used and studied for image tasks, and are currently state-of-the art for object recognition and detection. In this case Resnet architecture was chosen. Benchamrsk fo rdiffreent CNN architectures can be found ![here](https://github.com/jcjohnson/cnn-benchmarks)
 
