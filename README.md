@@ -6,7 +6,7 @@ After using the Microsoft Common Objects in COntext (MS COCO) dataset to train t
 
 ## The project Structure
 
-![model](Image-Captioning/model.py): containing the model architecture.
-![train](Image-Captioning/2_Training.ipynb): data pre-processing and training pipeline .
-![infer](Image-Captioning/3_Inference.ipynb): generate captions on test dataset using the trained model.
+1. ![model](Image-Captioning/model.py): containing the model architecture.
+2. ![train](Image-Captioning/2_Training.ipynb): data pre-processing and training pipeline .
+3. ![infer](Image-Captioning/3_Inference.ipynb): generate captions on test dataset using the trained model.
 
