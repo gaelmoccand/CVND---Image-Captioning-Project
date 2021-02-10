@@ -1,6 +1,6 @@
 # Image-Captioning-Project
 
-In this project, a neural network architecture is used to automatically generate captions from images.
+In this project, a CNN-LSTM  architecture is used to image caption (see ![paper](https://cs224d.stanford.edu/reports/msoh.pdf))
 
 ![image](https://github.com/gaelmoccand/Image-Captioning/blob/master/image-captioning.png)
 
